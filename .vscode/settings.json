@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": false,
+  "tslint.autoFixOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[css]": {
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  }
+}
